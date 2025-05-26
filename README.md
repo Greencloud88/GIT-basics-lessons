@@ -30,3 +30,6 @@
 **Sending changes to the server:**
 `git push`
 
+## 7. Synchronizing local and remote repositories
+
+`git clone git@github.com:TheGreatOwner/the-great-project.git`
