@@ -36,7 +36,7 @@
 
 ## 7. GIT status:
 
-**untracked
-**tracked
-**staged
-**modified
+**untracked**
+**tracked**
+**staged**
+**modified**
