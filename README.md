@@ -33,3 +33,10 @@
 ## 7. Synchronizing local and remote repositories
 
 `git clone git@github.com:TheGreatOwner/the-great-project.git`
+
+## 7. GIT status:
+
+**untracked
+**tracked
+**staged
+**modified
