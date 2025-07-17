@@ -34,9 +34,14 @@
 
 `git clone git@github.com:TheGreatOwner/the-great-project.git`
 
-## 7. GIT status:
+## 8. GIT status:
 
 **untracked**
 **tracked**
 **staged**
 **modified**
+
+## 9. Хеш - идентификатор коммита
+
+**Набор данных  : когда был сделан коммит, содержимое файлов в репозитории на момент коммита,
+и ссылка на предыдущий или родительский** 
